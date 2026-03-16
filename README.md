@@ -22,7 +22,7 @@ You can find my projects on my GitHub profile:
 
 ## Resume
 Download my resume here:  
-[Click to view resume](./resume.pdf)
+[Click to view resume](./Resume.pdf)
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/anshit-dwivedi-530647342  
