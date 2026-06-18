@@ -16,4 +16,3 @@ Aspiring Data Analyst skilled in SQL, Python, Power BI, Machine Learning, and Da
 ## Projects
 - Vendor Performance Analysis
 - Customer Churn Prediction
-- HR Analytics Dashboard
